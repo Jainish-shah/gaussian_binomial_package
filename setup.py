@@ -8,6 +8,7 @@ README = (HERE / "README.md").read_text()
 setup(name='gauss_binomial_probability',
       version='1.5',
       description='Gaussian and Binomial distributions',
+      url= "https://github.com/Jainish-shah/gaussian_binomial_package",
       long_description=README,
       long_description_content_type="text/markdown",
       packages=['gauss_binomial_probability'],
